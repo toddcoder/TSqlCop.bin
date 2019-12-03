@@ -1,0 +1,2 @@
+# TSqlCop.bin
+TSqlCop binaries
